@@ -1,0 +1,12 @@
+target/
+.idea/
+*.iml
+.project
+.settings
+*.log
+.classpath
+**/Thumbs.db
+.DS_Store
+Initialisation du fonds
+pom.xml.versionsBackup
+git.properties
